@@ -5,7 +5,8 @@
 ###           <div align="center">I'm Markg, I am an information security student at Ho Chi Minh City University of Technology and Education </div>
 
 - I am passionate about playing CTF and have a strong interest in Digital Forensics and Incident Response (DFIR).
-- 
+- I also a member of The Information Security Club from Ho Chi Minh City University of Technology and Education
+- I am also looking for companions to learn together and exchange knowledge, so feel free to message me. 
 <!--
 **DinoDTR/DinoDTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
